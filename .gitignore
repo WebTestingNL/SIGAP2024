@@ -1,0 +1,4 @@
+__pycache__/*
+website/node_modules
+generatedTests/__pycache__/*
+.hypothesis/
